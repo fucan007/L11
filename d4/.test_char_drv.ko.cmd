@@ -1,0 +1,1 @@
+cmd_/home/fucan/test/L11/d4/test_char_drv.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/fucan/linux/linux-3.14-fs4412/scripts/module-common.lds --build-id  -o /home/fucan/test/L11/d4/test_char_drv.ko /home/fucan/test/L11/d4/test_char_drv.o /home/fucan/test/L11/d4/test_char_drv.mod.o
